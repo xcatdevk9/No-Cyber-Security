@@ -1,0 +1,6 @@
+BeautifulSoup
+requests
+pystyle
+rich
+pystyle
+Colors
